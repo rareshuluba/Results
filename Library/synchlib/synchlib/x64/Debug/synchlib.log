@@ -1,0 +1,2 @@
+﻿  pch.cpp
+C:\Users\Rares\Desktop\Results\Library\synchlib\synchlib\synchlib.h(8): error C4716: 'synchlib::synch_CreateSharedMemory': must return a value
